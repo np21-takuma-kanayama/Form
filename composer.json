@@ -2,6 +2,7 @@
   "name": "np21/form",
   "description": "PHPなフォームメールを作りやすいようにするライブラリ",
   "type": "library",
+  "license": "MIT",
   "authors": [
     {
       "name": "takuma kanayama",
